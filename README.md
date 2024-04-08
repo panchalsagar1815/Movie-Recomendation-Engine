@@ -1,7 +1,7 @@
 # **Project: Movie Recommendation Engine using the MovieLens Dataset**
 
 **Objective:**
-The "Movie Recommendation Engine using the MovieLens dataset" project aims to develop a recommendation system that suggests movies to users based on their previous ratings and preferences. Leveraging the MovieLens dataset, which contains 100,004 ratings across 9,125 movies for 671 users, the project seeks to enhance user experience by providing personalized movie recommendations.
+The "Movie Recommendation Engine using the MovieLens dataset" project aims to develop a recommendation system that suggests movies to users based on their previous ratings and preferences. Leveraging the MovieLens dataset, which contains 100,004 ratings across 9,125 movies for 671 users, the project seeks to enhance the user experience by providing personalized movie recommendations.
 
 **Dataset Description:**
 - The MovieLens dataset consists of four main features: movieId, title, userId, and rating.
