@@ -1,4 +1,4 @@
-# Movie-Recomendation-Engine
+# Movie-Recomendation
 
 **Project: Movie Recommendation Engine using the MovieLens Dataset**
 
