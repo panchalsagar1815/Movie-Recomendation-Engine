@@ -14,7 +14,7 @@ The "Movie Recommendation Engine using the MovieLens dataset" project aims to de
 
 2. **Feature Selection:**
    - Identified relevant features including movieId, title, userId, and rating for recommendation model development.
-   - Filtered users with a minimum of 20 rated movies to ensure robustness of user preferences.
+   - Filtered users with a minimum of 20 rated movies to ensure the robustness of user preferences.
 
 **Recommendation Engine Development:**
 1. **K-Nearest Neighbor (KNN) Algorithm:**
