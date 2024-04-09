@@ -38,4 +38,3 @@ The "Movie Recommendation Engine using the MovieLens dataset" project aims to de
 The "Movie Recommendation Engine using the MovieLens dataset" project enhances user experience by providing personalized movie recommendations based on historical ratings and preferences. By leveraging the K-Nearest Neighbor algorithm and collaborative filtering techniques, the recommendation engine delivers accurate and relevant movie suggestions to users, thereby fostering increased user engagement and satisfaction.
 
 *Note: The recommendation engine can be further enhanced with the integration of additional data sources, advanced machine learning algorithms, and real-time user feedback for continuous improvement.*
-\
